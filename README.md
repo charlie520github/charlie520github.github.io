@@ -1,2 +1,3 @@
-# charlie520github.github.io
-charlie520github
+# charlie520的小站
+
+[去洛谷](www.luogu.org)
